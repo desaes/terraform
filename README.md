@@ -66,6 +66,6 @@ GPL
 | demos/aws/d25    | AWS - d24 + local modules for web services                                                                                           |
 | demos/aws/d26    | AWS - d26 + remote modules (git) for web services + module versioning                                                                |
 | demos/aws/d27    | AWS - count, for_each, for (modules/prod/webservices), conditionals                                                                  |
-| demos/aws/d28    | AWS - zero downtime ASG                                                                                                              |
-| demos/aws/d29    | AWS - modules for RDS, ASG, ALB, Instance, examples                                                                                  |
+| demos/aws/d28    | AWS - zero downtime ASG (explicit dependency among aws_autoscaling_group and aws_launch_configuration)                                                                                                              |
+| demos/aws/d29    | AWS - modules for RDS, ASG, ALB, Instance, examples, explicit dependency among aws_autoscaling_group and aws_launch_configuration                                                                                  |
 | demos/kplabs/d00 | provider definition and strict version requirement for the provider                                                                  |
